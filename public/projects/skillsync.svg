@@ -1,0 +1,20 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1400" y2="900" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#111827"/><stop offset="1" stop-color="#1e293b"/>
+  </linearGradient>
+  <radialGradient id="r" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 210) rotate(120) scale(700 500)">
+    <stop stop-color="#f97316" stop-opacity=".45"/><stop offset="1" stop-color="#f97316" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1400" height="900" fill="url(#g)"/>
+<rect width="1400" height="900" fill="url(#r)"/>
+<g opacity=".18" stroke="white" stroke-width="2">
+  <path d="M120 180H1280M120 300H1280M120 420H1280M120 540H1280M120 660H1280"/>
+  <path d="M220 100V800M440 100V800M660 100V800M880 100V800M1100 100V800"/>
+</g>
+<g transform="translate(130 160)"><rect x="0" y="0" width="520" height="300" rx="32" fill="white" opacity=".10"/><path d="M92 96H430M92 154H350M92 212H390" stroke="white" stroke-opacity=".65" stroke-width="22" stroke-linecap="round"/><circle cx="440" cy="220" r="76" fill="#f97316" opacity=".75"/><path d="M408 220l24 24 52-60" stroke="white" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="130" y="650" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="800" letter-spacing="-3">SkillSync</text>
+<text x="135" y="720" fill="white" opacity=".78" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="600">Java web platform</text>
+<rect x="130" y="760" width="350" height="10" rx="5" fill="#f97316"/>
+</svg>

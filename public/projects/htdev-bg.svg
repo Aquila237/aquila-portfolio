@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+<defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#0f3c68"/></linearGradient><linearGradient id="o" x1="0" x2="1"><stop stop-color="#fb923c"/><stop offset="1" stop-color="#f97316"/></linearGradient></defs>
+<rect width="900" height="560" fill="url(#b)"/><g opacity=".25" stroke="#38bdf8"><path d="M0 80h900M0 160h900M0 240h900M0 320h900M0 400h900M0 480h900M100 0v560M220 0v560M340 0v560M460 0v560M580 0v560M700 0v560M820 0v560"/></g>
+<rect x="110" y="110" width="680" height="350" rx="28" fill="#081527" stroke="#38bdf8" stroke-width="3"/>
+<rect x="145" y="150" width="250" height="38" rx="12" fill="#143252"/><rect x="145" y="220" width="610" height="58" rx="14" fill="#0f2945"/><rect x="145" y="305" width="290" height="115" rx="18" fill="#0b1f37" stroke="#38bdf8"/><rect x="465" y="305" width="290" height="115" rx="18" fill="#0b1f37" stroke="#38bdf8"/>
+<path d="M235 315h75v75h-75zM320 315h75v75h-75zM235 400h75v75h-75zM320 400h75v75h-75z" transform="translate(170 -55)" fill="url(#o)" opacity=".95"/>
+<text x="450" y="205" font-family="Arial" font-size="66" font-weight="900" fill="#e0f2fe" text-anchor="middle">HTDev</text><text x="450" y="260" font-family="Arial" font-size="26" fill="#93c5fd" text-anchor="middle">Discover • Evaluate • Hire</text>
+</svg>
